@@ -61,6 +61,6 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 
 <br />
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
+<!--RECENT_ACTIVITY:last_update-->
