@@ -1,4 +1,4 @@
-## [![QaisZAK Header](./Assets/GithubBanner.png)](https://wallpaperaccess.com/gamer-aesthetic-desktop)
+## [![QaisZAK Header](./Assets/GithubBanner.png)](https://github.com/QaisZAK)
 
 
 # Merhaba! I'm <span style="color:#fdab7f"> **Qais** </span>
@@ -61,6 +61,19 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 
 <br />
 
+<details>
+<summary>✅ Favorite workspaces</summary>
+
+- Javascript
+- Discord.JS
+- Vue/NuxtJS
+</details>
+
+<br />
+
+<details>
+<summary>🐌 Github Actvity</summary>
+
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [QaisZAK/novatorem](https://github.com/QaisZAK/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
 2. 🔱 Forked [QaisZAK/WaylonWalker](https://github.com/QaisZAK/WaylonWalker) from [WaylonWalker/WaylonWalker](https://github.com/WaylonWalker/WaylonWalker)
@@ -72,3 +85,4 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Tuesday, August 24th, 2021, 1:18:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
+</details>
