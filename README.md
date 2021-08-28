@@ -75,14 +75,14 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 <summary>🐌 Github Actvity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [QaisZAK/novatorem](https://github.com/QaisZAK/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
-2. 🔱 Forked [QaisZAK/WaylonWalker](https://github.com/QaisZAK/WaylonWalker) from [WaylonWalker/WaylonWalker](https://github.com/WaylonWalker/WaylonWalker)
-3. 📔 Created new repository [QaisZAK/QaisZAK](https://github.com/QaisZAK/QaisZAK)
-4. 🔱 Forked [QaisZAK/bdougie](https://github.com/QaisZAK/bdougie) from [bdougie/bdougie](https://github.com/bdougie/bdougie)
-5. 📔 Created new repository [QaisZAK/GamesAPI](https://github.com/QaisZAK/GamesAPI)
+1. 🤝 Became collaborator on [Yup-Dev/YupDev-API](https://github.com/Yup-Dev/YupDev-API)
+2. 🔱 Forked [QaisZAK/novatorem](https://github.com/QaisZAK/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
+3. 🔱 Forked [QaisZAK/WaylonWalker](https://github.com/QaisZAK/WaylonWalker) from [WaylonWalker/WaylonWalker](https://github.com/WaylonWalker/WaylonWalker)
+4. 📔 Created new repository [QaisZAK/QaisZAK](https://github.com/QaisZAK/QaisZAK)
+5. 🔱 Forked [QaisZAK/bdougie](https://github.com/QaisZAK/bdougie) from [bdougie/bdougie](https://github.com/bdougie/bdougie)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 28th, 2021, 1:37:41 PM
+Last Updated: Saturday, August 28th, 2021, 2:15:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
