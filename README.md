@@ -75,14 +75,14 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 <summary>🐌 Github Actvity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#143](https://github.com/countr/countr/issues/143) in [countr/countr](https://github.com/countr/countr)
-2. ⭐ Starred [kyb3r/modmail](https://github.com/kyb3r/modmail)
-3. ⭐ Starred [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe)
+1. ⭐ Starred [KingRain/SimpleDiscordMusicBot](https://github.com/KingRain/SimpleDiscordMusicBot)
+2. ❗️ Opened issue [#143](https://github.com/countr/countr/issues/143) in [countr/countr](https://github.com/countr/countr)
+3. ⭐ Starred [kyb3r/modmail](https://github.com/kyb3r/modmail)
 4. 🤝 Became collaborator on [Yup-Dev/YupDev-API](https://github.com/Yup-Dev/YupDev-API)
 5. 🔱 Forked [QaisZAK/novatorem](https://github.com/QaisZAK/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 7th, 2021, 6:49:26 AM
+Last Updated: Tuesday, December 7th, 2021, 7:18:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
