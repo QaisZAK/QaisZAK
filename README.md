@@ -75,14 +75,14 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 <summary>🐌 Github Actvity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HazimAr/Discord-Typescript-Boilerplate](https://github.com/HazimAr/Discord-Typescript-Boilerplate)
-2. ⭐ Starred [KingRain/SimpleDiscordMusicBot](https://github.com/KingRain/SimpleDiscordMusicBot)
-3. ❗️ Opened issue [#143](https://github.com/countr/countr/issues/143) in [countr/countr](https://github.com/countr/countr)
-4. 🤝 Became collaborator on [Yup-Dev/YupDev-API](https://github.com/Yup-Dev/YupDev-API)
+1. ❗️ Opened issue [#13](https://github.com/HazimAr/Discord-Typescript-Boilerplate/issues/13) in [HazimAr/Discord-Typescript-Boilerplate](https://github.com/HazimAr/Discord-Typescript-Boilerplate)
+2. ⭐ Starred [HazimAr/Discord-Typescript-Boilerplate](https://github.com/HazimAr/Discord-Typescript-Boilerplate)
+3. ⭐ Starred [KingRain/SimpleDiscordMusicBot](https://github.com/KingRain/SimpleDiscordMusicBot)
+4. ❗️ Opened issue [#143](https://github.com/countr/countr/issues/143) in [countr/countr](https://github.com/countr/countr)
 5. 🔱 Forked [QaisZAK/novatorem](https://github.com/QaisZAK/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 11th, 2022, 3:18:13 PM
+Last Updated: Friday, February 11th, 2022, 3:41:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
