@@ -75,14 +75,14 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 <summary>🐌 Github Actvity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Iku/Google-Forms-to-Discord](https://github.com/Iku/Google-Forms-to-Discord)
-2. ❗️ Opened issue [#13](https://github.com/HazimAr/Discord-Typescript-Boilerplate/issues/13) in [HazimAr/Discord-Typescript-Boilerplate](https://github.com/HazimAr/Discord-Typescript-Boilerplate)
-3. ⭐ Starred [HazimAr/Discord-Typescript-Boilerplate](https://github.com/HazimAr/Discord-Typescript-Boilerplate)
-4. ⭐ Starred [KingRain/SimpleDiscordMusicBot](https://github.com/KingRain/SimpleDiscordMusicBot)
-5. 🔱 Forked [QaisZAK/novatorem](https://github.com/QaisZAK/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
+1. ⭐ Starred [QaisZAK/novatorem](https://github.com/QaisZAK/novatorem)
+2. ⭐ Starred [QaisZAK/node-myanimelist](https://github.com/QaisZAK/node-myanimelist)
+3. ⭐ Starred [QaisZAK/YupDev-Bot-EmbedBuilder](https://github.com/QaisZAK/YupDev-Bot-EmbedBuilder)
+4. ⭐ Starred [Iku/Google-Forms-to-Discord](https://github.com/Iku/Google-Forms-to-Discord)
+5. ❗️ Opened issue [#13](https://github.com/HazimAr/Discord-Typescript-Boilerplate/issues/13) in [HazimAr/Discord-Typescript-Boilerplate](https://github.com/HazimAr/Discord-Typescript-Boilerplate)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 6th, 2022, 8:19:53 PM
+Last Updated: Sunday, March 6th, 2022, 8:39:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
