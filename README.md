@@ -6,8 +6,6 @@
 <br />
 
 *Game Development and Design student at [<span style="color:#fdab7f"> **SAE** </span>](https://www.sae.edu/home3)*\
-*Amateur Discord Bot Developer*\
-*[SOON] Owner of **[<span style="color:#fdab7f"> **Yup** </span>](https://www.yupdev.tech)***
 
 <br />
 <br />
@@ -19,19 +17,13 @@ const qais = {
     living: "Jordan - Amman",
     student: true,
     pronouns: "He/Him",
-    interests: ["Javascript", "Discord bots", "Vue/Nuxt", "Web"],
+    interests: ["Javascript", "Discord Bots", "Vue/Nuxt", "Web", "Game Development", "UE4", "Blueprints"],
     projects: [
         {
-            name: "OutsideJoke",
-            roles: ["Discord Server Manager", "Twitch Moderator"],
-            reference: "OutsideJokeTV on Youtube and Twitch",
+            name: "Rythm",
+            roles: ["Events Guide"],
+            reference: "discord.gg/rythm-hq",
             online: true
-        },
-        {
-            name: "Yup",
-            roles: ["Founder", "Lead Developer"],
-            reference: "yuppdev.tech",
-            online: false
         }
     ]
 }
@@ -66,6 +58,7 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 
 - Javascript
 - Discord.JS
+- Unreal Engine 4/5
 - Vue/NuxtJS
 </details>
 
