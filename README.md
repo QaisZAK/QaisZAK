@@ -68,7 +68,7 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 <summary>🐌 Github Actvity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [QaisZAK/novatorem](https://github.com/QaisZAK/novatorem)
+1. 📔 Created new repository [QaisZAK/Kurd-istan-i](https://github.com/QaisZAK/Kurd-istan-i)
 2. ⭐ Starred [QaisZAK/node-myanimelist](https://github.com/QaisZAK/node-myanimelist)
 3. ⭐ Starred [QaisZAK/YupDev-Bot-EmbedBuilder](https://github.com/QaisZAK/YupDev-Bot-EmbedBuilder)
 4. ⭐ Starred [Iku/Google-Forms-to-Discord](https://github.com/Iku/Google-Forms-to-Discord)
@@ -76,6 +76,6 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 20th, 2022, 8:42:01 PM
+Last Updated: Monday, June 20th, 2022, 9:18:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
