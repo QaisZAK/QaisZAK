@@ -5,7 +5,7 @@
 <img src="./Assets/PikaWave.gif" width="145" align="right">
 <br />
 
-*Game Development and Design student at [<span style="color:#fdab7f"> **SAE** </span>](https://www.sae.edu/home3)*\
+*Game Development and Design student at [<span style="color:#fdab7f"> **SAE** </span>](https://www.sae.edu/home3)*
 
 <br />
 <br />
