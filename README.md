@@ -2,8 +2,6 @@
 
 
 # Merhaba! I'm **Qais**
-
-### <img src="./Assets/OCat.gif" width="50" align=center> <span style="font-size:25px;align:center"> More about me...  </span>
 ```js
 const qais = {
     fullName: "Qais Zaid Al-Kilani",
