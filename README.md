@@ -1,14 +1,9 @@
 ## [![QaisZAK Header](./Assets/GithubBanner.png)](https://github.com/QaisZAK)
 
 
-# Merhaba! I'm <span style="color:#fdab7f"> **Qais** </span>
+# Merhaba! I'm **Qais**
 <img src="./Assets/PikaWave.gif" width="145" align="right">
-<br />
 
-*Game Development and Design student at* [<span style="color:#fdab7f"> **SAE** </span>](https://www.sae.edu/home3)
-
-<br />
-<br />
 
 ### <img src="./Assets/OCat.gif" width="50" align=center> <span style="font-size:25px;align:center"> More about me...  </span>
 ```js
