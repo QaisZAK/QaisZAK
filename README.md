@@ -45,14 +45,14 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 <summary>🐌 Github Actvity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [QaisZAK/discord.js-v14-template](https://github.com/QaisZAK/discord.js-v14-template)
-2. 📔 Created new repository [QaisZAK/me](https://github.com/QaisZAK/me)
+1. 📔 Created new repository [QaisZAK/Berry](https://github.com/QaisZAK/Berry)
+2. 📔 Created new repository [QaisZAK/discord.js-v14-template](https://github.com/QaisZAK/discord.js-v14-template)
 3. 📔 Created new repository [QaisZAK/me](https://github.com/QaisZAK/me)
 4. 📔 Created new repository [QaisZAK/me](https://github.com/QaisZAK/me)
-5. ⭐ Starred [QaisZAK/YupDev-Bot-EmbedBuilder](https://github.com/QaisZAK/YupDev-Bot-EmbedBuilder)
+5. 📔 Created new repository [QaisZAK/me](https://github.com/QaisZAK/me)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 13th, 2022, 9:46:48 PM
+Last Updated: Thursday, October 13th, 2022, 10:27:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
