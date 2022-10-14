@@ -45,14 +45,14 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 <summary>🐌 Github Actvity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [QaisZAK/Berry](https://github.com/QaisZAK/Berry)
-2. 📔 Created new repository [QaisZAK/discord.js-v14-template](https://github.com/QaisZAK/discord.js-v14-template)
-3. 📔 Created new repository [QaisZAK/me](https://github.com/QaisZAK/me)
+1. 📔 Created new repository [QaisZAK/Thresh](https://github.com/QaisZAK/Thresh)
+2. 📔 Created new repository [QaisZAK/Berry](https://github.com/QaisZAK/Berry)
+3. 📔 Created new repository [QaisZAK/discord.js-v14-template](https://github.com/QaisZAK/discord.js-v14-template)
 4. 📔 Created new repository [QaisZAK/me](https://github.com/QaisZAK/me)
 5. 📔 Created new repository [QaisZAK/me](https://github.com/QaisZAK/me)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 14th, 2022, 2:56:18 PM
+Last Updated: Friday, October 14th, 2022, 3:32:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
