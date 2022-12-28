@@ -5,20 +5,18 @@
 ```js
 const qais = {
     fullName: "Qais Zaid Al-Kilani",
-    living: "Jordan - Amman",
+    location: "Jordan - Amman",
     student: true,
     single: true,
     pronouns: "He/Him",
-    interests: ["JavaScript", "Game Dev", "VR", "UE4/5", "Voice Acting", "Web Design"],
+    interests: ["JavaScript", "Game Dev", "VR", "UE4/5", "Voice Acting", "Web Design", "Community Management"],
+    work: "Community Manager @ Rythm Inc",
     projects: [
         {
-            name: "Inde Town",
-            description: "Indie Town is your sanctuary to expand your indie games treasury and explore new indie game gems. We review indie games honestly and provide in-game footage and criticism for our audience.",
-            roles: ["Founder", "Content Creator"],
-            reference: "https://indie.town",
-            additional: {
-                looking: ["Content Creators", "Designers", "Music Producers", "Web Developers"]
-            },
+            name: "Insomnia",
+            description: "A solo game made in 7 days for the Brackeys 2022.1 Game Jam. Assets are from KennyNL and Sketchfab. The rest from code, to level design, audio, UI, testing and game design as a whole was all done by me.",
+            roles: ["Designer", "Developer", "Publisher"],
+            reference: "https://itch.io/jam/brackeys-7/rate/1420380",
             online: true
         }
     ]
