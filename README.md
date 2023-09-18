@@ -43,7 +43,7 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 <summary>🐌 Github Actvity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [QaisZAK/Thresh](https://github.com/QaisZAK/Thresh)
+1. 📔 Created new repository [QaisZAK/MashallahCraftModlist](https://github.com/QaisZAK/MashallahCraftModlist)
 2. 📔 Created new repository [QaisZAK/Berry](https://github.com/QaisZAK/Berry)
 3. 📔 Created new repository [QaisZAK/discord.js-v14-template](https://github.com/QaisZAK/discord.js-v14-template)
 4. 📔 Created new repository [QaisZAK/me](https://github.com/QaisZAK/me)
@@ -51,6 +51,6 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 18th, 2023, 8:37:17 AM
+Last Updated: Monday, September 18th, 2023, 9:15:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
