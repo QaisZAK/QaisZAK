@@ -43,14 +43,14 @@ Would you like to connect? Hit me up on [Discord](https://www.discord.com) Yupr#
 <summary>🐌 Github Actvity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [QaisZAK/overwatch-api](https://github.com/QaisZAK/overwatch-api)
-2. 📔 Created new repository [QaisZAK/MashallahCraftModlist](https://github.com/QaisZAK/MashallahCraftModlist)
-3. 📔 Created new repository [QaisZAK/discord.js-v14-template](https://github.com/QaisZAK/discord.js-v14-template)
+1. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. 📔 Created new repository [QaisZAK/overwatch-api](https://github.com/QaisZAK/overwatch-api)
+3. 📔 Created new repository [QaisZAK/MashallahCraftModlist](https://github.com/QaisZAK/MashallahCraftModlist)
 4. 📔 Created new repository [QaisZAK/me](https://github.com/QaisZAK/me)
 5. 📔 Created new repository [QaisZAK/me](https://github.com/QaisZAK/me)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 31st, 2023, 8:19:17 AM
+Last Updated: Tuesday, October 31st, 2023, 8:37:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
